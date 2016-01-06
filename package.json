@@ -1,0 +1,22 @@
+{
+  "name": "VinylList",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "alt": "^0.18.1",
+    "lodash": "^3.10.1",
+    "react-native": "^0.17.0",
+    "react-native-custom-navigation": "^0.2.1",
+    "react-native-ios-network-audio": "0.0.8",
+    "react-native-side-menu": "^0.17.2",
+    "react-native-vector-icons": "^1.0.4"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.8.2",
+    "react-native-cli": "^0.1.7"
+  }
+}
